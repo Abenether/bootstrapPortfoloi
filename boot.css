@@ -1,0 +1,62 @@
+.float-left{
+    float:left;
+  }
+.float-right {
+    float:right;
+  }
+
+  
+aside {
+  color: darkred;
+  float: right;
+}
+
+
+  #container {
+    border: 5px solid red;
+    margin: 15px;
+    background-color: gray;
+}
+
+#container2 {
+   border: 5px solid green;
+   margin: 15px;
+   background-color: black;
+   padding: 40px;
+}
+#one {
+    text-align: center;
+    margin: 10px;
+    padding: 5%;
+    font-size: 150%;
+    background-color: darkblue;
+    
+
+
+}
+
+#two {
+   text-align: center;
+   margin: 10px;
+   padding: 5%;
+   font-size: 150%;
+   background-color: darkred;
+   
+}
+
+#three {
+   text-align: center;
+   margin: 10px;
+    padding: 5%;
+    font-size: 150%;
+    background-color:darkorchid;
+   
+
+}
+
+footer {
+    background-color: brown;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
